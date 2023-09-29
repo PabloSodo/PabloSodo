@@ -3,32 +3,30 @@
 👨🏻‍💻 About Me 
 ---
 
-• 🤔 Full Stack Developer! Passionate about creating visually appealing UI and robust backend systems.
+• 🤔 Full Stack Developer! Passionate about creating visually appealing UI and some backend systems.
 
-• 🌱 Book lover, nature enthusiast. Finding inspiration in both the digital and natural world.  
+• 🌱 Composer, Piano player, teacher, book lover and art enthusiast. Finding inspiration in both the digital and artistic world.  
 
-• 🌟 Other interests: health, fitness, biohacking, reading, NSDR, game theory, stoicism, ecc.  
+• 🌟 Other interests: health, sports, nature, reading, philosphy, semiotics, ecc.  
 
-• 👨🏻‍💻 Currently studying: Nest JS + hexagonal architecture + DDD + Typescript
+• 👨🏻‍💻 Currently studiyng and perfecting: Angular, React, Node and Next. 
 
 🛠 Tech Stack
 ---
-💻 HTML5 | CSS3 | Javascript | Typescript | React | Next | Gatsby | Node | Express | Strapi | Jest | Cypress | Storybook | Git | Vue | Angular
+💻 HTML5 | CSS3 | Javascript | Typescript | React | Node | Express | Git | Angular
 
 
 🛠 Familiar with tools like
 ---
-🔧 GitHub, Bitbucket, Gitlab
+🔧 GitHub
 
-🔧 Postman, Thunder Client
+🔧 Postman
 
-🔧 Terraform, Docker
+🔧 Google meet, Discord, ecc 
 
-🔧 Slack, Teams, Google meet, Discord, ecc 
+🔧  Trello 
 
-🔧 Jira, Trello, Monday, ecc 
-
-🔧 AWS, Netlify, Vercel, Firebase 
+🔧 Netlify, Firebase 
 
 <h3 align="left">Languages and Tools:</h3>
 <p> 
