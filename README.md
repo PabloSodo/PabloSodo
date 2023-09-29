@@ -45,5 +45,6 @@
 
 📫🤝🏻 Connect with Me
 ---
-<a href="https://pablosodo.github.io/Portfolio/"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-linkedin" viewBox="0 0 16 16">
-</svg>https://www.linkedin.com/in/pabloesodo/</a>
+[![Linkedin: Pablo E. Sodo](https://img.shields.io/badge/-PabloE.Sodo-blue?style=flatsquare&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pabloesodo/)](https://www.linkedin.com/in/pabloesodo)
+[![GitHub PabloSodo](https://img.shields.io/github/followers/PabloSodo?label=follow&style=social)](https://github.com/PabloSodo)
+[![Gmail Pablo E. Sodo](https://img.shields.io/badge/Gmail-pablosodo%40gmail.com-success)](mailto:pablosodo@gmail.com)
